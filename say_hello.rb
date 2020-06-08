@@ -2,5 +2,5 @@
 def say_hello (name="Hello Ruby Programmer!")
  
   puts "Hello #{name}"
-  say_hello("Minelie")
+  say_hello("person's name")
 end
